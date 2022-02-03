@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3c5809f2-4f6b-4201-8b2d-e23fc7fde77e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_4_XL_API_29]" />
+  <component name="ProjectId" id="1pLDiKb25huHFdLu0Q2ADtR5nhe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ScreenshotViewer.SavePath" value="$PROJECT_DIR$/../../../Computer Science/Project Skripsi/All Page Proposal" />
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Computer Science/Project Skripsi/All Page Proposal" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c5809f2-4f6b-4201-8b2d-e23fc7fde77e" name="Default Changelist" comment="" />
+      <created>1614953602383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614953602383</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1350" height="630" key="AVDManager" timestamp="1638413506223">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="93" y="93" width="1350" height="630" key="AVDManager/0.0.1536.816@0.0.1536.816" timestamp="1638413506223" />
+    <state x="354" y="147" key="FileChooserDialogImpl" timestamp="1639122043180">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="354" y="147" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1639122043180" />
+    <state width="1120" height="586" key="GridCell.Tab.0.bottom" timestamp="1638191723789">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1120" height="586" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1638191723789" />
+    <state width="1120" height="586" key="GridCell.Tab.0.center" timestamp="1638191723788">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1120" height="586" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1638191723788" />
+    <state width="1120" height="586" key="GridCell.Tab.0.left" timestamp="1638191723787">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1120" height="586" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1638191723787" />
+    <state width="1120" height="586" key="GridCell.Tab.0.right" timestamp="1638191723788">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1120" height="586" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1638191723788" />
+    <state x="0" y="0" key="ScreenshotViewer.Dimensions" timestamp="1639122044567">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="0" y="0" key="ScreenshotViewer.Dimensions/0.0.1536.816@0.0.1536.816" timestamp="1639122044567" />
+  </component>
+</project>
